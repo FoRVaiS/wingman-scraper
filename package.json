@@ -1,4 +1,7 @@
 {
   "name": "wingman-scraper",
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "dependencies": {
+    "puppeteer": "^19.11.1"
+  }
 }
